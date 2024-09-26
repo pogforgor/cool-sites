@@ -1,4 +1,4 @@
-# Browser Extensions you'll need
+# Browser extension you'll need
 
 Userscript manager (e.g.: [ViolentMonkey](https://violentmonkey.github.io/get-it/))
 
