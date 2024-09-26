@@ -1,6 +1,6 @@
 # Browser Extensions you may need
 
-Userscript manager (e.g.: [ViolentMonkey](https://violentmonkey.github.io/get-it/)
+Userscript manager (e.g.: [ViolentMonkey](https://violentmonkey.github.io/get-it/))
 
 # Websites
 
