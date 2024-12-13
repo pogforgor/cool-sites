@@ -14,7 +14,9 @@ Userscript manager (like [ViolentMonkey](https://violentmonkey.github.io/get-it/
 
 ### Website(s)
 
-❔ [kahoot.club](https://kahoot.club)  /  ⭕ [schoolcheats.net](https://schoolcheats.net/kahoot) 
+❔ [kahoot.club](https://kahoot.club)
+
+⭕ [schoolcheats.net](https://schoolcheats.net/kahoot) 
 
 ### Script(s)
 
