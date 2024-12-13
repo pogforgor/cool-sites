@@ -18,7 +18,9 @@ Userscript manager (like [ViolentMonkey](https://violentmonkey.github.io/get-it/
 
 ### Script(s)
 
-❔ [(Python) Kahoot Answer Hack](https://github.com/H4cK3dR4Du/Kahoot-Answer-Hack) / ❔ [(Python) Kahoot Flood](https://github.com/H4cK3dR4Du/Kahoot-Flooder/blob/main/main.py)
+❔ [(Python) Kahoot Answer Hack](https://github.com/H4cK3dR4Du/Kahoot-Answer-Hack)
+
+❔ [(Python) Kahoot Flood](https://github.com/H4cK3dR4Du/Kahoot-Flooder/blob/main/main.py)
 
 ## Quizizz
 
@@ -30,4 +32,6 @@ Userscript manager (like [ViolentMonkey](https://violentmonkey.github.io/get-it/
 
 ### Userscript(s)
 
-✅ Click to install [TheLazySquid's userscript](https://raw.githubusercontent.com/TheLazySquid/GimkitCheat/main/build/bundle.user.js) / ❔ Go [here](https://raw.githubusercontent.com/pogforgor/cool-sites/refs/heads/main/cheatnetwork-gimkit.js), select everything (Ctrl+A) and copy and paste in DevTools (F12 key or Ctrl+Shift+I).
+✅ Click to install [TheLazySquid's userscript](https://raw.githubusercontent.com/TheLazySquid/GimkitCheat/main/build/bundle.user.js) 
+
+❔ Go [here](https://raw.githubusercontent.com/pogforgor/cool-sites/refs/heads/main/cheatnetwork-gimkit.js), select everything (Ctrl+A) and copy and paste in DevTools (F12 key or Ctrl+Shift+I).
