@@ -28,4 +28,6 @@ Userscript manager (like [ViolentMonkey](https://violentmonkey.github.io/get-it/
 
 ## Gimkit
 
+### Userscript(s)
+
 ✅ Click to install [TheLazySquid's userscript](https://raw.githubusercontent.com/TheLazySquid/GimkitCheat/main/build/bundle.user.js) / ❔ Go [here](https://raw.githubusercontent.com/pogforgor/cool-sites/refs/heads/main/cheatnetwork-gimkit.js), select everything (Ctrl+A) and copy and paste in DevTools (F12 key or Ctrl+Shift+I).
