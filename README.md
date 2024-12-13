@@ -18,7 +18,7 @@ Userscript manager (like [ViolentMonkey](https://violentmonkey.github.io/get-it/
 
 ### Script(s)
 
-❔ [Python Script](https://github.com/H4cK3dR4Du/Kahoot-Answer-Hack)
+❔ [(Python) Kahoot Answer Hack](https://github.com/H4cK3dR4Du/Kahoot-Answer-Hack) / ❔ [(Python) Kahoot Flood](https://github.com/H4cK3dR4Du/Kahoot-Flooder/blob/main/main.py)
 
 ## Quizizz
 
