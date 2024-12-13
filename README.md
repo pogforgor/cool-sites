@@ -1,7 +1,3 @@
-# Browser extension you'll need
-
-Userscript manager (like [ViolentMonkey](https://violentmonkey.github.io/get-it/))
-
 # Legend
 
 ✅ - Tested and working
@@ -9,6 +5,10 @@ Userscript manager (like [ViolentMonkey](https://violentmonkey.github.io/get-it/
 ⭕ - Tested but partially working
 
 ❔ - Untested
+
+# Browser extension you'll need
+
+Userscript manager (like [ViolentMonkey](https://violentmonkey.github.io/get-it/))
 
 ## Kahoot
 
