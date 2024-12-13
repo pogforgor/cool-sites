@@ -14,7 +14,9 @@ Userscript manager (like [ViolentMonkey](https://violentmonkey.github.io/get-it/
 
 ## Quizizz
 
-Quizizz - Open the userscript panel, click '+'; then 'Install from URL'. Copy and paste [this link](https://raw.githubusercontent.com/gbaranski/quizizz-cheat/refs/heads/master/scripts/tampermonkey-alternative-method.js) (right click and copy).
+### Userscript
+
+Open the userscript panel, click '+'; then 'Install from URL'. Copy and paste [this link](https://raw.githubusercontent.com/gbaranski/quizizz-cheat/refs/heads/master/scripts/tampermonkey-alternative-method.js) (right click and copy).
 
 ## Gimkit
 
