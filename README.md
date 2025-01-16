@@ -14,9 +14,9 @@ Userscript manager (like [ViolentMonkey](https://violentmonkey.github.io/get-it/
 
 ### Website(s)
 
-✅ ‎[kahoot.club](https://kahoot.club)
+⭕ ‎[kahoot.club](https://kahoot.club) - If correct answers is what you want you must get the quiz ID, which you can only get from who's hosting. Bot spam has not been tested yet.
 
-⭕ [schoolcheats.net](https://schoolcheats.net/kahoot) 
+⭕ [schoolcheats.net](https://schoolcheats.net/kahoot) - Tested bot spam only.
 
 ### Script(s)
 
